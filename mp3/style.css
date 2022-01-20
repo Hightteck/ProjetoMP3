@@ -1,0 +1,23 @@
+.img-album {
+    max-width: 130px;
+}
+
+.album {
+    margin: 10px 0;
+}
+
+.borda {
+    border-radius: 1%;
+}
+
+.botao {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 1%;
+}
+
+.botao1 {
+    margin-bottom: 1%;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
